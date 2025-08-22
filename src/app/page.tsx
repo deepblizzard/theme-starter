@@ -5,7 +5,7 @@ import Link from 'next/link';
 function page() {
   return (
    <div className=" min-h-screen w-full h-auto max-w-96">
-      <Link className="text-blue-600 underline" href={'https://youtu.be/e0Y5wJoRhYs?si=GsKTAAWepmw_JIRT'}>
+      <Link className="text-blue-600 underline bold" href={'https://youtu.be/e0Y5wJoRhYs?si=GsKTAAWepmw_JIRT'}>
         {'https://youtu.be/e0Y5wJoRhYs?si=GsKTAAWepmw_JIRT'}
       </Link>
      <p>itna confirm h meko isse nafrat h aur abb kabhi nhi milne ya baat karne wala chahe iske bhaiya bhi kyu naa bol de, sab khatam hogya h abb<br/>
@@ -20,6 +20,7 @@ function page() {
 }
 
 export default page;
+
 
 
 
