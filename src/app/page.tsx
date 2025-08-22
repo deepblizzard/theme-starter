@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 function page() {
   return (
-   <div className=" min-h-screen w-full h-auto max-w-96">
+   <div className="px-2 min-h-screen w-full h-auto max-w-96">
       <Link className="text-blue-600 underline bold" href={'https://youtu.be/e0Y5wJoRhYs?si=GsKTAAWepmw_JIRT'}>
         {'https://youtu.be/e0Y5wJoRhYs?si=GsKTAAWepmw_JIRT'}
       </Link>
@@ -20,6 +20,7 @@ function page() {
 }
 
 export default page;
+
 
 
 
