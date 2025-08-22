@@ -8,6 +8,7 @@ function page() {
       <Link className="text-blue-600 underline bold" href={'https://youtu.be/e0Y5wJoRhYs?si=GsKTAAWepmw_JIRT'}>
         {'https://youtu.be/e0Y5wJoRhYs?si=GsKTAAWepmw_JIRT'}
       </Link>
+     <p>youtube pkka intentionally aisa videos mera feed mein recommend karta h, pta hoga main emotional toh hu hi, aur abhi takk guilty feel krta hu gussa mein bina soche samjhe uske naam ka ganda full form apne dosto se likhwa k copy paste kardiya, iske liye main dil se maafi bhi maang chuka hu</p>
      <p>itna confirm h meko isse nafrat h aur abb kabhi nhi milne ya baat karne wala chahe iske bhaiya bhi kyu naa bol de, sab khatam hogya h abb<br/>
      parr vhir bhi iska yeh matlab nhi h ki isse kisi bhi tarah ganda nazar se dekhta hu <br/>
        voh jaha p bhi h bhagwan ji please please usse safe ekdm accha se rakhiyega aur uske saare gande dost joh uske peeth piche ussi k saath ganda-ganda kaam chiz sochte h unse isko safe rakhiyega, kyunki yeh bewakoof insaan toh itne acche-acche dost hi banate h, main khud apna aankh se dekha hu flirt, forced-kiss, wedding, gangs*x aur kitna faltu chiz discuss karte h<br/>
@@ -20,6 +21,7 @@ function page() {
 }
 
 export default page;
+
 
 
 
