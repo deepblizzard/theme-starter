@@ -8,23 +8,18 @@ function page() {
       <Link href={'https://youtu.be/e0Y5wJoRhYs?si=GsKTAAWepmw_JIRT'}>
         {'https://youtu.be/e0Y5wJoRhYs?si=GsKTAAWepmw_JIRT'}
       </Link>
-     <p>mereko personally usse nafrat hai, bohot jyada <br/>
-       main usse zindagi mein vhir kabhi baat ya milna kabhi nahi chahunga itna confirm hai, uske bhaiya bolenge tab bhi nahi, sab khatam hogya abb<br/>
-       
-     parr yaha pe abb mera family ka ek aur restriction ka entry hota hai <br/>
-       kisi g ko agar main promise deta hu (aur iske case mein main galti se karr chuka hu) uske baad main 7 saal koi bhi aur g se real life mein baat ya touch (with bare hands) ekdm nahi karskta sirf pichle wale ke uske memories, honor mein ya fir jab takk yeh khud haan bolde aur mereko permission dede dusri g se baat karne ka (yeh toh hone se rha kabhi hone nahi wala isse baat karne se jyada accha 7 saal wait karlu)
-
-      <br/>
-       merese jyada usse nafrat koi nahi krta hoga itna confirm hai parr vhir bhi main sapna mein bhi nahi chahunga uske saath kuch bura ho, aur voh toh bewakoofi ka haad paar krke hai aise aise dost bnaya hai joh uske piche uske saath hi ganda ganda chiz karne ka sochte aur haste haste bolte hai<br/>
-       please bhagwan ji iss murk insaan ko safe rakhiyega isse koi galti na ho aur isse gande logo se durr rakhiyega aur hamesha isse baccha ke rakhiyega bhale hi isse nafrat hai parr yeh bhi toh ek g hi hai chahe kitna hi faltu background, mindset aur culture se hai<br/>
-       pta h youtube intentionally mereko aisa hi video recommendations feed mein daalta hai jaanta h main emotional toh hu hi <br/>
-       sirf iske memories mein hi main yeh restriction follow karrha hu, break nahi krrha 7 saal aaram se wait karlunga aakhri promise follow karrha hu iske liye<br/>
-       abb pta chla aku aapse handshake gloves mein kyu kiya tha? aur aapse irl baat bhi nahi karta aapka birthday mein bhi jyada kuch nahi kiya 
-     </p>
+     <p>itna confirm h meko isse nafrat h aur abb kabhi nhi milne ya baat karne wala chahe iske bhaiya bhi kyu naa bol de, sab khatam hogya h abb<br/>
+     parr vhir bhi iska yeh matlab nhi h ki isse kisi bhi tarah ganda nazar se dekhta hu <br/>
+       voh jaha p bhi h bhagwan ji please please usse safe ekdm accha se rakhiyega aur uske saare gande dost joh uske peeth piche ussi k saath ganda-ganda kaam chiz sochte h unse isko safe rakhiyega, kyunki yeh bewakoof insaan toh itne acche-acche dost hi banate h, main khud apna aankh se dekha hu flirt, forced-kiss, wedding, gangs*x aur kitna faltu chiz discuss karte h<br/>
+       please bhagwan ji iske family aur isko ko bhi saare gande insaano aur gandi chizo se durr rakhiyega bhale hi yeh kitna bhi ganda, faltu culture ki hai parr yeh bhi toh ek insaan hi hai, isme bhi toh feelings hai, please inko kabhi kuch nhi hone dijiyega aur ekdm pura accha se safe rakhiyega </p>
+     <p>mera family restriction h ki agar main kisi g ko promise dedeta hu toh vhir agla 7 saal takk msin kisi bhi aur g ko physically touch ya real life mein baat nhi krskta sirf iske tribute aur memories mein (aur iske case mein main isko promise kardiya tha), aur sabe ganda baat yeh hai ki main isse permission leke hi apna yeh restriction hata sakta hu (yeh toh hone se rha, main isse abb kabhi baat nhi krne wala 7 saal aaram se wait krlunga)</p>
+     <p>main uss din aku se handshake bhi gloves mein kiya tha, main bhale hi gussa, nafrat karta hu parr aakhri mein iske liye aakhri baar feelings aur emotions ke liye yeh restriction follow karrha hu, 7 saal takk, break nhi krrha restriction, bechari ka birthday mein bhi jaanbuch k absent rha</p>
+     <p>vhir se bhagwan ji, please gande insaano ko innlogo se durr rakhiyega aur isse mereko sacch me bhul jaaane ka strength bhi, kyunki main 7 saal baad toh pkka bhhul jaunga yeh mera zindagi mein kabhi aayi bhi thi</p>
     </div>
   );
 }
 
 export default page;
+
 
 
