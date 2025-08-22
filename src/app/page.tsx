@@ -14,12 +14,13 @@ function page() {
        please bhagwan ji iske family aur isko ko bhi saare gande insaano aur gandi chizo se durr rakhiyega bhale hi yeh kitna bhi ganda, faltu culture ki hai parr yeh bhi toh ek insaan hi hai, isme bhi toh feelings hai, please inko kabhi kuch nhi hone dijiyega aur ekdm pura accha se safe rakhiyega </p>
      <p>mera family restriction h ki agar main kisi g ko promise dedeta hu toh vhir agla 7 saal takk msin kisi bhi aur g ko physically touch ya real life mein baat nhi krskta sirf iske tribute aur memories mein (aur iske case mein main isko promise kardiya tha), aur sabe ganda baat yeh hai ki main isse permission leke hi apna yeh restriction hata sakta hu (yeh toh hone se rha, main isse abb kabhi baat nhi krne wala 7 saal aaram se wait krlunga)</p>
      <p>main uss din aku se handshake bhi gloves mein kiya tha, main bhale hi gussa, nafrat karta hu parr aakhri mein iske liye aakhri baar feelings aur emotions ke liye yeh restriction follow karrha hu, 7 saal takk, break nhi krrha restriction, bechari ka birthday mein bhi jaanbuch k absent rha</p>
-     <p>vhir se bhagwan ji, please gande insaano ko innlogo se durr rakhiyega aur isse mereko sacch me bhul jaaane ka strength bhi, kyunki main 7 saal baad toh pkka bhhul jaunga yeh mera zindagi mein kabhi aayi bhi thi</p>
+     <p>vhir se bhagwan ji, please gande insaano ko innlogo se durr rakhiyega aur isse mereko sacch me bhul jaaane ka strength bhi dijiega, kyunki main 7 saal baad toh pkka bhhul jaunga yeh mera zindagi mein kabhi aayi bhi thi</p>
     </div>
   );
 }
 
 export default page;
+
 
 
 
