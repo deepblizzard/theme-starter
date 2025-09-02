@@ -9,13 +9,16 @@ function page() {
      <p className="text-xl font-semibold opacity-60">yeh aakansha sahi mein ek din phele 1 sep ko 12 bje wish kii thi, aisa glti 💀🙏</p>
     <p className="text-3xl font-extrabold">{"main zarur aaplogo ko free 1 year subscription dedunga"} <Link href='https://abhyudaya.space/services' className='text-blue-600 underline'>https://abhyudaya.space/services</Link>
   </p>
-      <p className="text-xl font-semibold opacity-60">main soccha hu various plans rakhunga various services ke liye, fully-encrypted privacy-focused, abb pta chal gya main insta pe q nhi hu? </p>
+      <p className="text-xl font-semibold opacity-60">main soccha hu various plans rakhunga various services ke liye, fully-encrypted privacy-focused</p>
+      <p className="text-xl font-semibold opacity-60">abb pta chal gya main insta pe q nhi hu? apna dusra insta p rhta hu apna team k saath yha aane ka zarurat hi nhi h infact vha ka jyada advanced hai (discord features + slack + insta + meta + perplexity + github features) </p>
+      <p className="text-xl font-semibold opacity-60">why to be on insta when you could make ur own 💀, (without vibe coding, ai-coding) </p>
   
     </div>
   );
 }
 
 export default page;
+
 
 
 
