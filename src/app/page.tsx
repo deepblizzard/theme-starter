@@ -10,13 +10,14 @@ function page() {
   </p>
 <p className="text-3xl font-extrabold"> aaplogo joh bol rhe ho main isko *viral* karunga, voh galat hai, main isko apna circle mein hi rkhunga, mere online dost lelenge yeh</p>
      
-    <p className="text-xl font-extrabold">{"(19.98 * 88 * 12 = 21,000+ 💀) ka samaan cost-less milega 🫡"} <Link href='https://abhyudaya.space/services/pricing' className='text-blue-600 underline'>https://abhyudaya.space/services</Link>
+    <p className="text-xl font-extrabold">{"(19.98 * 88 * 12 = 21,000+ 💀) ka samaan cost-less milega 🫡"} <Link href='https://abhyudaya.space/services/pricing' className='text-blue-600 underline'>https://abhyudaya.space/services/pricing</Link>
   </p>
     </div>
   );
 }
 
 export default page;
+
 
 
 
