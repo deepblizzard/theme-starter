@@ -5,18 +5,23 @@ import Link from 'next/link';
 function page() {
   return (
    <div className="px-2 min-h-screen w-full h-auto max-w-96">
-<p className="text-3xl font-extrabold"> aku, aku ki pyaaaari behen, iqra, iqra ki cutiee behen, shreya, shreya ki didi 🫡, prisha, sana roy, rishika (main inke behen se mila hu isiliye free sub de rha hu, apke aaur bhai, behen bhi warmly-invited hai)</p>
-    <p className="text-xl font-extrabold">{"main zarur aaplogo ko free mein 1 year subscription + early access dedunga (bass apna email bhej dijiye)"} <Link href='https://abhyudaya.space/services' className='text-blue-600 underline'>https://abhyudaya.space/services</Link>
-  </p>
-<p className="text-3xl font-extrabold"> aaplogo joh bol rhe ho main isko *viral* karunga, voh galat hai, main isko apna circle mein hi rkhunga, mere online dost lelenge yeh</p>
-     
-    <p className="text-xl font-extrabold">{"(19.98 * 88 * 12 = 21,000+ 💀) ka samaan cost-less milega 🫡"} <Link href='https://abhyudaya.space/services/pricing' className='text-blue-600 underline'>https://abhyudaya.space/services/pricing</Link>
-  </p>
+<p className="text-3xl font-extrabold"></p>
+    <Link href='https://traff.co/ZD6KzX1E' className='text-blue-600 underline'> favourite cartoon (nya shinChanMovie dekhne pkka theatre jane wala hu)</Link> </br>
+<Link href='https://traff.co/nzcENdAJ' className='text-blue-600 underline'>aj tk koi b movie dekhk ni roya pr ye akh m asu ladiya</Link>
+     <Link href='https://traff.co/tT3iMT2F' className='text-blue-600 underline'> fav movies</Link>
+   </p>
+    
+    
+  
+  
+  
+  
     </div>
   );
 }
 
 export default page;
+
 
 
 
