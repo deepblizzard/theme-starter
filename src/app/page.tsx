@@ -4,42 +4,21 @@ import Link from 'next/link';
 
 function page() {
   return (
-   <div className="px-2 min-h-screen w-full h-auto max-w-96">
-<p className="text-3xl font-extrabold"></p>
-    <Link href='https://traff.co/ZD6KzX1E' className='text-blue-600 underline'> favourite cartoon (nya shinChanMovie dekhne pkka theatre jane wala hu)</Link> </br>
-<Link href='https://traff.co/nzcENdAJ' className='text-blue-600 underline'>aj tk koi b movie dekhk ni roya pr ye akh m asu ladiya</Link>
-     <Link href='https://traff.co/tT3iMT2F' className='text-blue-600 underline'> fav movies</Link>
-   </p>
-    
-    
-  
-  
-  
-  
+    <div className="px-2 min-h-screen w-full h-auto max-w-96">
+      <p className="text-3xl font-extrabold"></p>
+      <Link href="https://traff.co/ZD6KzX1E" className="text-blue-600 underline">
+        favourite cartoon (nya shinChanMovie dekhne pkka theatre jane wala hu)
+      </Link>
+      <br />
+      <Link href="https://traff.co/nzcENdAJ" className="text-blue-600 underline">
+        aj tk koi b movie dekhk ni roya pr ye akh m asu ladiya
+      </Link>
+      <br />
+      <Link href="https://traff.co/tT3iMT2F" className="text-blue-600 underline">
+        fav movies
+      </Link>
     </div>
   );
 }
 
 export default page;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
