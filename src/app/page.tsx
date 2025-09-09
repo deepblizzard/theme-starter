@@ -17,15 +17,22 @@ function page() {
       <Link href="https://traff.co/tT3iMT2F" className="text-blue-600 underline">
         fav movies
       </Link>
+      <br />
       <Link href="/" className="">
         fav khana?? shayad koi nahi hai, vhir bhi nonveg m chicken chilli hi hai shayad aur veg mein shayad dosa
       </Link>
+      <br />
       <Link href="/" className="">
         meri gf???? aap g log sacch m ekdm cbi, cid jaisa inquiry krte ho 💀 
+      </Link>
+      <br />
+      <Link href="/" className="">
+        hoi hoi aakansha, aunty (aapki mummy ofc) unko mere taraf se {'"pranam"'} bol dijiyega, main phele jaa rha tha payr lagke pranam karne parr dusra aunty bagal se unko bula li, aapki mummy dekh li, baad mein mere taraf dekhi tab main hanth jodhke pranam krne ka koshish kiya parr vhir se vahi aunty ke liye dusra taraf mudh gyi
       </Link>
     </div>
   );
 }
 
 export default page;
+
 
