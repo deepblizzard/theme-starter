@@ -27,12 +27,13 @@ function page() {
       </Link>
       <br />
       <Link href="/" className="">
-        hoi hoi aakansha, aunty (aapki mummy ofc) unko mere taraf se {'"pranam"'} bol dijiyega, main phele jaa rha tha payr lagke pranam karne parr dusra aunty bagal se unko bula li, aapki mummy dekh li, baad mein mere taraf dekhi tab main hanth jodhke pranam krne ka koshish kiya parr vhir se vahi aunty ke liye dusra taraf mudh gyi
+        hoi hoi aakansha, aunty (aapki mummy ofc) unko mere taraf se {'"pranam"'} bol dijiyega, main phele jaa rha tha payr lagke pranam karne parr dusra aunty bagal se unko bula li, aapki mummy dekh li, baad mein mere taraf dekhi tab main hanth jodhke pranam krne ka koshish kiya parr vhir se vahi aunty ke liye dusra taraf mudh gyi, shayad nahi dekh payi
       </Link>
     </div>
   );
 }
 
 export default page;
+
 
 
