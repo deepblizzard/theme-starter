@@ -29,11 +29,15 @@ function page() {
       <Link href="/" className="">
         hoi hoi aakansha, aunty (aapki mummy ofc) unko mere taraf se {'"pranam"'} bol dijiyega, main phele jaa rha tha payr lagke pranam karne parr dusra aunty bagal se unko bula li, aapki mummy dekh li, baad mein mere taraf dekhi tab main hanth jodhke pranam krne ka koshish kiya parr vhir se vahi aunty ke liye dusra taraf mudh gyi, shayad nahi dekh payi
       </Link>
+      <Link href="/" className="">
+        aakanshaaaaaaaaaa, humlog jab bahar the tmhara hi wait krrhe the, tb uncle aaye, pocket se melody diye tumhari behen ko, main gya payr chuke pranam kiya, mere taraf dekhe, mereko bhi melody dediye 💀 main baccha nahi hu 💀
+      </Link>
     </div>
   );
 }
 
 export default page;
+
 
 
 
