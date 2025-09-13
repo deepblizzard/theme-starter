@@ -15,13 +15,14 @@ function page() {
         parr uske baad tum aage mudd gyi aur ek boy ka ek girl k just itna samne, voh bhi piche accha position nahi hai (agar tumhareko nhi pta h toh)<br/>
         aur main maan toh rha hu tum shayad bhul gyi hogi tmhare piche main tha, (main toh tab socch hi rha tha abh yaha se hatna chahiye ya nahi), tabhi tm ulta (unintentionally) piche agyi <br/>
         bhale hi main ghasak gya parr aku bol rhi hai ki mera aur tumhara *bad touch* hosakta aur main agree karrha hu (kyuki yeh sacch mein hosakta tha, ek baar khud sochke dekho) <br/>
-        toh pls abse (humbly) mera itna jyada paas matt aana, aur apna phone durr rkhna kabhi kabhi durr lagta hai tum mera photo kheench rhi ho 💀😅 (mazak hai)
+        toh pls abse (humbly) mera itna jyada paas matt aana, aur apna phone durr rkhna kabhi kabhi durr lagta hai tum mera photo kheench rhi ho 💀😅 
       </Link>
     </div>
   );
 }
 
 export default page;
+
 
 
 
