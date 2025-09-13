@@ -19,13 +19,14 @@ function page() {
         aur sacch mein ekdm sacch bol rha hu aku sab chiz itna jaldi hua mereko react krne ka time nhi mila, aur sacch mein maaf karna please please mera hanth se voh press kar li apna ganda area, main uska dusra hanth taraf dekh rha tha joh mera dusra hanth taraf jaa rha tha, mereko phele laga uska thigh ya vaisa kuch touch hua hoga, yeh bilkul bhi main nahi soccha tha, iss taraf dekhte hi jaldi se apna hanth kheencha aur uska hanth hataya<br/>
         uske baad voh rote rote kya boli kuch yaad nhi h mera sirf yhi socch rha tha yeh insaan mera restrictions ka dhajjiya uda di, main isse abb kbhi baat nhi krne wala) thoda derr baad tum ayi lays aur pepsi leke aur yeh aise rone ka acting karne lagi jaise kuch hua hi nahi hai <br/>
         ussd toh baat karne ka mann nahi tha parr gussa mein galti se tu
-      aap pe hi chilla diya maaf kijiyega,mera mental state thik nhi tha uss time<br/>
+      aap pe hi chilla diya gussa mein please please maaf kijiyega, mera mental state thik nhi tha uss time, yeh behuda insaan apna tino ganda area touch karwane ka koshish ki yeh coincidence bilkul nahi tha, voh ganda intension hi leke ayi thi<br/>
       </Link>
     </div>
   );
 }
 
 export default page;
+
 
 
 
