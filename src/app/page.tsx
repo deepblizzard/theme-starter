@@ -5,38 +5,24 @@ import Link from 'next/link';
 function page() {
   return (
     <div className="px-2 min-h-screen w-full h-auto max-w-96">
-      <p className="text-3xl font-extrabold"></p>
-      <Link href="https://traff.co/ZD6KzX1E" className="text-blue-600 underline">
-        favourite cartoon (nya shinChanMovie dekhne pkka theatre jane wala hu)
-      </Link>
-      <br />
-      <Link href="https://traff.co/nzcENdAJ" className="text-blue-600 underline">
-        aj tk koi b movie dekhk ni roya pr ye akh m asu ladiya
-      </Link>
-      <br />
-      <Link href="https://traff.co/tT3iMT2F" className="text-blue-600 underline">
-        fav movies
-      </Link>
-      <br />
+      
       <Link href="/" className="">
-        fav khana?? shayad koi nahi hai, vhir bhi nonveg m chicken chilli hi hai shayad aur veg mein shayad dosa
-      </Link>
-      <br />
-      <Link href="/" className="">
-        meri gf???? aap g log sacch m ekdm cbi, cid jaisa inquiry krte ho 💀 
-      </Link>
-      <br />
-      <Link href="/" className="">
-        hoi hoi aakansha, aunty (aapki mummy ofc) unko mere taraf se {'"pranam"'} bol dijiyega, main phele jaa rha tha payr lagke pranam karne parr dusra aunty bagal se unko bula li, aapki mummy dekh li, baad mein mere taraf dekhi tab main hanth jodhke pranam krne ka koshish kiya parr vhir se vahi aunty ke liye dusra taraf mudh gyi, shayad nahi dekh payi
-      </Link>
-      <Link href="/" className="">
-        aakanshaaaaaaaaaa, humlog jab bahar the tmhara hi wait krrhe the, tb uncle aaye, pocket se melody diye tumhari behen ko, main gya payr chuke pranam kiya, mere taraf dekhe, mereko bhi melody dediye 💀 main baccha nahi hu 💀
+        dekho iqra, (politely), pls bura mtt manna parr main iss baar bhi aakansha ka hi baat ka support karrha hu <br/>
+        yeh mtt sochna voh jyada acchi dost h isiliye ya vaisa kuch, parr kyunki uska factually correct hai<br/>
+        <br/> <br/>
+        tum jab mere ekdm samne aur paas agyi (side angle) tab main kuch bhi bola tha? jabki tumhareko pata hai mere itna samne nahi aana hai <br/>
+        main tumhareko nhi hurt krne ke liye thoda sa bhi piche nhi hua <br/>
+        parr uske baad tum aage mudd gyi aur ek boy ka ek girl k just itna samne, voh bhi piche accha position nahi hai (agar tumhareko nhi pta h toh)<br/>
+        aur main maan toh rha hu tum shayad bhul gyi hogi tmhare piche main tha, (main toh tab socch hi rha tha abh yaha se hatna chahiye ya nahi), tabhi tm (unintentionally) piche agyi <br/>
+        bhale hi main ghasak gya parr aku bol rhi hai ki mera aur tumhara *bad touch* hosakta aur main agree karrha hu (kyuki yeh sacch mein hosakta tha, ek baar khud sochke dekho) <br/>
+        toh pls abse (humbly) mera itna jyada paas matt aana, aur apna phone durr rkhna kabhi kabhi durr lagta hai tum mera photo kheench rhi ho 💀😅 (mazak hai)
       </Link>
     </div>
   );
 }
 
 export default page;
+
 
 
 
